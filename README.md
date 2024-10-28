@@ -56,10 +56,10 @@ Programmed architectural lighting and building automation, including LED and sho
 ---
 
 ## Skills  
-- **Programming Languages:** Python, C#, ANSI C, C++
-- **IoT & Microcontrollers:** Embedded systems, LoRaWAN, Platformio
+- **Programming Languages:** ANSI C, C++, C#, Python, HMTL5, CSS3, Javascript. 
+- **IoT & Microcontrollers:** Embedded systems, LoRaWAN, Platformio, CMAKE
 - **AV & Lighting Systems:** Crestron, Lutron, KNX, Ecue, Philips Color Kinetics, Pharos controls
-- **Languages:** Dutch (Native), English (Fluent), German (Basic)
+- **Languages:** Dutch (Native), English (Fluent), German (Almost Fluent)
 
 ---
 
