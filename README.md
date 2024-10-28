@@ -68,8 +68,11 @@ Programmed architectural lighting and building automation, including LED and sho
 - **CTI-P101**: Crestron Foundations of Crestron Programming
 - **CTI-P201**: Crestron Intermediate System Programming
 - **CTI-P301**: Crestron Advanced System Programming
+- **CTI-SG**: Crestron Smart Graphics
+- **CTI-Fusion-P**: Crrstron Fudion training
 - **DMCT-T**: Crestron Digital Media Certified Technician
 - **DMC-D-4K**: Crestron DM Certified Designer– 4K (DMC-D-4K)
 - **DMC-E**: Crestron DM Certified Engineer
+- **Homeworks QS Installation & Programming Course**: Lutron Homeworks QS
 
 ---
