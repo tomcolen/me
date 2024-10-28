@@ -64,8 +64,12 @@ Programmed architectural lighting and building automation, including LED and sho
 ---
 
 ## Certifications  
-- **DMCT-T**: Digital Media Certified Technician  
-- **DMC-E**: Techniek en Onderhoud  
-- **CTI-P101**: Pandora's Box Basic Training  
+- **CTI-CTF**: Crestron Technician Fundamentals  
+- **CTI-P101**: Crestron Foundations of Crestron Programming
+- **CTI-P201**: Crestron Intermediate System Programming
+- **CTI-P301**: Crestron Advanced System Programming
+- **DMCT-T**: Crestron Digital Media Certified Technician
+- **DMC-D-4K**: Crestron DM Certified Designer– 4K (DMC-D-4K)
+- **DMC-E**: Crestron DM Certified Engineer
 
 ---
